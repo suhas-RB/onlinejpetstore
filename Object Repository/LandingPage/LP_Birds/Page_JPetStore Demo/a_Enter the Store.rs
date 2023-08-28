@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Enter the Store</name>
    <tag></tag>
-   <elementGuidId>178a2a9e-479f-45c7-bc04-326982450ad9</elementGuidId>
+   <elementGuidId>3ed70ebc-b496-4ebe-a07e-eee3dadc37db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9cfb975f-dd12-49b5-bb4b-2794e25a2372</webElementGuid>
+      <webElementGuid>95d952ee-3cf8-4161-9fa2-b68c6774da8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>actions/Catalog.action</value>
-      <webElementGuid>94471aff-9897-4570-b0f7-433a025d4676</webElementGuid>
+      <webElementGuid>faabff1b-e904-4283-8bed-826d5e16808e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Enter the Store</value>
-      <webElementGuid>6ed563fb-f395-43a9-b246-6bd9dbe3b266</webElementGuid>
+      <webElementGuid>c9423b56-e52b-411f-af52-3fcfb8928d2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Content&quot;)/p[1]/a[1]</value>
-      <webElementGuid>e5100a85-44e8-4285-ae49-f74c0c227f0e</webElementGuid>
+      <webElementGuid>3d0f4c2a-8994-486f-86e2-6d1798e2980a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Content']/p/a</value>
-      <webElementGuid>8c78861d-6de8-45ce-a077-bfc5edc38035</webElementGuid>
+      <webElementGuid>843f89c7-1ef5-4af5-bd1c-869c3f1ff461</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Enter the Store')]</value>
-      <webElementGuid>78a91559-0a1e-4332-b3eb-5655a76ad0c1</webElementGuid>
+      <webElementGuid>adf72bff-1402-46a0-b02e-f5da2d90af72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to JPetStore 6'])[1]/following::a[1]</value>
-      <webElementGuid>d96826e5-4a41-444b-8874-5b92ab3bc022</webElementGuid>
+      <webElementGuid>e542848e-ee19-483a-9bbc-266287b34a77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright www.mybatis.org'])[1]/preceding::a[1]</value>
-      <webElementGuid>d97b9cec-f34c-4ef3-b757-5475aa7a2cec</webElementGuid>
+      <webElementGuid>1634ad22-ee98-4515-b282-8e9c47c3ac1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Content', '&quot;', ')/p[1]/a[1]')])[1]/preceding::a[1]</value>
-      <webElementGuid>b27ec3ff-4f80-48ae-9ffd-f6a9d7e4335b</webElementGuid>
+      <webElementGuid>379c3df2-c579-4c1d-a147-a0198449e357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Enter the Store']/parent::*</value>
-      <webElementGuid>bc23a263-53df-42f3-ada9-89b1ba52ca02</webElementGuid>
+      <webElementGuid>67ee9c82-3256-4893-a62e-87137f0ad7b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'actions/Catalog.action')]</value>
-      <webElementGuid>dac23dad-4d98-480b-9cec-694b28c48fb9</webElementGuid>
+      <webElementGuid>ee984a39-1296-4a22-b015-b6b5a418ef55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>0aa22b46-f3b6-4c48-9807-8d52725beaa7</webElementGuid>
+      <webElementGuid>155af592-3b7f-4c6d-a922-7b9bfa5e716d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'actions/Catalog.action' and (text() = 'Enter the Store' or . = 'Enter the Store')]</value>
-      <webElementGuid>fa3b033e-59e7-4a48-adde-6997f5e91a05</webElementGuid>
+      <webElementGuid>fb8d0040-5a8b-44ad-b95e-197d05b8c9f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
