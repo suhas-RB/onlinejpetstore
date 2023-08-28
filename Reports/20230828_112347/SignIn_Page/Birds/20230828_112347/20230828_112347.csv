@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Birds,Chrome 116.0.0.0,,,2023-08-28 11:23:58,2023-08-28 11:25:13,1m - 14.799s,PASSED
+,,,,,,,
+Test Cases/SignIn/Verify_Birds,Chrome 116.0.0.0,,,2023-08-28 11:23:58,2023-08-28 11:25:13,1m - 14.200s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 11:23:59,2023-08-28 11:24:02,3.193s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-28 11:24:02,2023-08-28 11:24:03,0.740s,PASSED
+"click(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/a_Enter the Store""))",Chrome 116.0.0.0,,,2023-08-28 11:24:03,2023-08-28 11:24:04,1.432s,PASSED
+"click(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/a_Sign In""))",Chrome 116.0.0.0,,,2023-08-28 11:24:04,2023-08-28 11:24:05,0.742s,PASSED
+"setText(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/input_Need a user name and password_username""), ""suhas3"")",Chrome 116.0.0.0,,,2023-08-28 11:24:05,2023-08-28 11:25:09,1m - 3.410s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/input_Need a user name and password_password""), ""qg5PJjO9hfg="")",Chrome 116.0.0.0,,,2023-08-28 11:25:09,2023-08-28 11:25:09,0.684s,PASSED
+"click(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/input_Need a user name and password_signon""))",Chrome 116.0.0.0,,,2023-08-28 11:25:09,2023-08-28 11:25:10,0.934s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/img""), 0)",Chrome 116.0.0.0,,,2023-08-28 11:25:10,2023-08-28 11:25:11,0.554s,PASSED
+"click(findTestObject(""Object Repository/SignIn_Page/Page_JPetStore Demo/a_Sign Out""))",Chrome 116.0.0.0,,,2023-08-28 11:25:11,2023-08-28 11:25:12,1.057s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-08-28 11:25:12,2023-08-28 11:25:13,0.722s,PASSED
