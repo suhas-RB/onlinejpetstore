@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username",
+      "brokenLocator": "//input[@id\u003d\u0027stripes--1240013456\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027Catalog\u0027]/form/p[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230828_122746/Exp_Page/Explore_Birds/20230828_122746/Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username_idRelative.png"
+    }
+  ]
+}

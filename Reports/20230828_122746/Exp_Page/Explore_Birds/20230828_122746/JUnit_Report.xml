@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Explore_Birds" time="74.001" tests="1" failures="0" errors="0">
+   <testsuite name="Explore_Birds" tests="1" failures="0" errors="0" time="74.001" skipped="0" timestamp="2023-08-28 12:28:03" hostname="SuhasB - suhasb.emids.local" id="Test Suites/Exp_Page/Explore_Birds">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230828_122746\\Exp_Page\\Explore_Birds\\20230828_122746"/>
+         <property name="logFiles" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230828_122746\\Exp_Page\\Explore_Birds\\20230828_122746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SuhasB - suhasb.emids.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.232"/>
+         <property name="sessionId" value="f9c284bf682145adf935bd331d2fa995"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/ExplorePage/Explore_Birds" time="73.724" classname="Test Cases/ExplorePage/Explore_Birds" status="PASSED">
+         <system-out><![CDATA[2023-08-28 12:28:04 - [TEST_CASE][PASSED] - Test Cases/ExplorePage/Explore_Birds: Test Cases/ExplorePage/Explore_Birds
+
+2023-08-28 12:28:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-28 12:28:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-28 12:28:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-28 12:28:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-28 12:28:07 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-28 12:28:08 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-28 12:28:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exp/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+2023-08-28 12:28:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+2023-08-28 12:28:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exp/Page_JPetStore Demo/a_Sign In")): Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Sign In' is clicked on
+
+2023-08-28 12:28:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Sign In' is clicked on
+
+2023-08-28 12:28:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username"), "suhas3"): Text 'suhas3' is set on object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username'
+
+2023-08-28 12:28:41 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='stripes--1240013456']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-08-28 12:28:41 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username'. Try using Self-healing.
+
+2023-08-28 12:28:41 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@id='stripes--1240013456']'.
+
+2023-08-28 12:28:42 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//div[@id='Catalog']/form/p[2]/input'.
+
+2023-08-28 12:28:42 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/suhasb/git/onlinejpetstore/Reports/Self-healing/Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username_idRelative.png
+
+2023-08-28 12:28:42 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username' was broken. Propose an alternative one: '//div[@id='Catalog']/form/p[2]/input'.
+
+2023-08-28 12:29:13 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='stripes--1240013456']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-08-28 12:29:13 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username'. Try using Self-healing.
+
+2023-08-28 12:29:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username' was broken. Propose an alternative one: '//div[@id='Catalog']/form/p[2]/input'.
+
+2023-08-28 12:29:14 - [MESSAGE][PASSED] - Text 'suhas3' is set on object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_username'
+
+2023-08-28 12:29:14 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_password"), "qg5PJjO9hfg="): Text ****** has been set on object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_password'
+
+2023-08-28 12:29:14 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_password'
+
+2023-08-28 12:29:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_signon")): Object: 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_signon' is clicked on
+
+2023-08-28 12:29:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Exp/Page_JPetStore Demo/input_Need a user name and password_signon' is clicked on
+
+2023-08-28 12:29:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exp/Page_JPetStore Demo/img")): Object: 'Object Repository/Exp/Page_JPetStore Demo/img' is clicked on
+
+2023-08-28 12:29:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Exp/Page_JPetStore Demo/img' is clicked on
+
+2023-08-28 12:29:15 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Exp/Page_JPetStore Demo/th_Product ID"), 0): Object 'Object Repository/Exp/Page_JPetStore Demo/th_Product ID' is present
+
+2023-08-28 12:29:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-08-28 12:29:16 - [MESSAGE][PASSED] - Object 'Object Repository/Exp/Page_JPetStore Demo/th_Product ID' is present
+
+2023-08-28 12:29:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exp/Page_JPetStore Demo/a_Sign Out")): Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Sign Out' is clicked on
+
+2023-08-28 12:29:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Exp/Page_JPetStore Demo/a_Sign Out' is clicked on
+
+2023-08-28 12:29:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-08-28 12:29:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-28 12:28:03 - [TEST_SUITE][PASSED] - Explore_Birds: Test Cases/ExplorePage/Explore_Birds]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
