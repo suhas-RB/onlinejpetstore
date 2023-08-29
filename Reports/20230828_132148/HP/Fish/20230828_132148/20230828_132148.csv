@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Fish,Chrome 116.0.0.0,,,2023-08-28 13:21:56,2023-08-28 13:22:03,6.678s,PASSED
+,,,,,,,
+Test Cases/Homepage/LandingPage_Fish,Chrome 116.0.0.0,,,2023-08-28 13:21:56,2023-08-28 13:22:03,6.415s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 13:21:57,2023-08-28 13:22:00,2.800s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-28 13:22:00,2023-08-28 13:22:00,0.723s,PASSED
+"click(findTestObject(""Object Repository/HomePage/Page_JPetStore Demo/a_Enter the Store""))",Chrome 116.0.0.0,,,2023-08-28 13:22:00,2023-08-28 13:22:02,1.244s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HomePage/Page_JPetStore Demo/img""), 0)",Chrome 116.0.0.0,,,2023-08-28 13:22:02,2023-08-28 13:22:02,0.460s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-08-28 13:22:02,2023-08-28 13:22:03,0.676s,PASSED

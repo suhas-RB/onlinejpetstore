@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Cats" time="6.63" tests="1" failures="0" errors="0">
+   <testsuite name="Cats" tests="1" failures="0" errors="0" time="6.63" skipped="0" timestamp="2023-08-28 13:29:30" hostname="SuhasB - suhasb.emids.local" id="Test Suites/HP/Cats">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230828_132923\\HP\\Cats\\20230828_132923"/>
+         <property name="logFiles" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230828_132923\\HP\\Cats\\20230828_132923\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SuhasB - suhasb.emids.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.232"/>
+         <property name="sessionId" value="26e14f6a0dab36a74ab8c21571c8e3a9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Homepage/LandingPage_Cat" time="6.228" classname="Test Cases/Homepage/LandingPage_Cat" status="PASSED">
+         <system-out><![CDATA[2023-08-28 13:29:30 - [TEST_CASE][PASSED] - Test Cases/Homepage/LandingPage_Cat: Test Cases/Homepage/LandingPage_Cat
+
+2023-08-28 13:29:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-28 13:29:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-28 13:29:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-28 13:29:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-28 13:29:33 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-28 13:29:34 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-28 13:29:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LandingPage/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/LandingPage/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+2023-08-28 13:29:35 - [MESSAGE][PASSED] - Object: 'Object Repository/LandingPage/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+2023-08-28 13:29:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/LandingPage/Page_JPetStore Demo/img"), 0): Object 'Object Repository/LandingPage/Page_JPetStore Demo/img' is present
+
+2023-08-28 13:29:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-08-28 13:29:36 - [MESSAGE][PASSED] - Object 'Object Repository/LandingPage/Page_JPetStore Demo/img' is present
+
+2023-08-28 13:29:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-08-28 13:29:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-28 13:29:30 - [TEST_SUITE][PASSED] - Cats: Test Cases/Homepage/LandingPage_Cat]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

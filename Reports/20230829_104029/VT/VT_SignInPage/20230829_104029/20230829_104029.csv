@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VT_SignInPage,Chrome 116.0.0.0,,,2023-08-29 10:40:55,2023-08-29 10:41:05,9.675s,PASSED
+,,,,,,,
+Test Cases/VT_TestCases/VT_SignInPage,Chrome 116.0.0.0,,,2023-08-29 10:40:56,2023-08-29 10:41:05,9.381s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-29 10:40:56,2023-08-29 10:41:01,4.419s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-29 10:41:01,2023-08-29 10:41:01,0.797s,PASSED
+"click(findTestObject(""Object Repository/VT/Page_JPetStore Demo/a_Enter the Store""))",Chrome 116.0.0.0,,,2023-08-29 10:41:01,2023-08-29 10:41:03,1.552s,PASSED
+"takeScreenshotAsCheckpoint(""SignIn"")",Chrome 116.0.0.0,,,2023-08-29 10:41:03,2023-08-29 10:41:05,2.133s,PASSED

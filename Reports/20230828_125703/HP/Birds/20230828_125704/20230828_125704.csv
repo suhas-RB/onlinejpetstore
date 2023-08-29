@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Birds,Chrome 116.0.0.0,,,2023-08-28 12:57:13,2023-08-28 12:57:19,6.328s,PASSED
+,,,,,,,
+Test Cases/Homepage/LandingPage_Birds,Chrome 116.0.0.0,,,2023-08-28 12:57:14,2023-08-28 12:57:19,5.879s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-28 12:57:14,2023-08-28 12:57:16,2.449s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-28 12:57:16,2023-08-28 12:57:17,0.757s,PASSED
+"click(findTestObject(""Object Repository/LandingPage/LP_Birds/Page_JPetStore Demo/a_Enter the Store""))",Chrome 116.0.0.0,,,2023-08-28 12:57:17,2023-08-28 12:57:18,1.159s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/LandingPage/LP_Birds/Page_JPetStore Demo/img""), 0)",Chrome 116.0.0.0,,,2023-08-28 12:57:18,2023-08-28 12:57:19,0.402s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-08-28 12:57:19,2023-08-28 12:57:19,0.716s,PASSED
