@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VT_LandingPage,Chrome 116.0.0.0,,,2023-08-29 11:02:16,2023-08-29 11:02:22,6.210s,PASSED
+,,,,,,,
+Test Cases/VT_TestCases/VT_LandingPage,Chrome 116.0.0.0,,,2023-08-29 11:02:17,2023-08-29 11:02:22,5.850s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-29 11:02:17,2023-08-29 11:02:20,2.844s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-29 11:02:20,2023-08-29 11:02:21,0.803s,PASSED
+"takeScreenshotAsCheckpoint(""LP"")",Chrome 116.0.0.0,,,2023-08-29 11:02:21,2023-08-29 11:02:22,0.849s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-08-29 11:02:22,2023-08-29 11:02:22,0.795s,PASSED

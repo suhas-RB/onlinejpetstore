@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="VT_Fish" time="8.826" tests="1" failures="0" errors="0">
+   <testsuite name="VT_Fish" tests="1" failures="0" errors="0" time="8.826" skipped="0" timestamp="2023-08-29 11:05:02" hostname="SuhasB - suhasb.emids.local" id="Test Suites/VT/VT_Fish">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230829_110451\\VT\\VT_Fish\\20230829_110451"/>
+         <property name="logFiles" value="C:\\Users\\suhasb\\git\\onlinejpetstore\\Reports\\20230829_110451\\VT\\VT_Fish\\20230829_110451\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-Fish.png"/>
+         <property name="hostName" value="SuhasB - suhasb.emids.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.232"/>
+         <property name="sessionId" value="80b4f94905bcf132e87671e3b9b41ddd"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/VT_TestCases/VT_Fish" time="8.251" classname="Test Cases/VT_TestCases/VT_Fish" status="PASSED">
+         <system-out><![CDATA[2023-08-29 11:05:02 - [TEST_CASE][PASSED] - Test Cases/VT_TestCases/VT_Fish: Test Cases/VT_TestCases/VT_Fish
+
+2023-08-29 11:05:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-29 11:05:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-29 11:05:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-29 11:05:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-29 11:05:06 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-29 11:05:06 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+2023-08-29 11:05:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/VT/Page_JPetStore Demo/a_Enter the Store (2)")): Object: 'Object Repository/VT/Page_JPetStore Demo/a_Enter the Store (2)' is clicked on
+
+2023-08-29 11:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/VT/Page_JPetStore Demo/a_Enter the Store (2)' is clicked on
+
+2023-08-29 11:05:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/VT/Page_JPetStore Demo/img (2)")): Object: 'Object Repository/VT/Page_JPetStore Demo/img (2)' is clicked on
+
+2023-08-29 11:05:09 - [MESSAGE][PASSED] - Object: 'Object Repository/VT/Page_JPetStore Demo/img (2)' is clicked on
+
+2023-08-29 11:05:09 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Fish"): Taking screenshot successfully
+
+2023-08-29 11:05:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-29 11:05:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Fish.png]]
+
+2023-08-29 11:05:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-08-29 11:05:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-29 11:05:02 - [TEST_SUITE][PASSED] - VT_Fish: Test Cases/VT_TestCases/VT_Fish]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

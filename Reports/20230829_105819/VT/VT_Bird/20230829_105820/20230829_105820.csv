@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VT_Bird,Chrome 116.0.0.0,,,2023-08-29 10:58:40,2023-08-29 10:58:50,9.455s,PASSED
+,,,,,,,
+Test Cases/VT_TestCases/VT_Bird,Chrome 116.0.0.0,,,2023-08-29 10:58:41,2023-08-29 10:58:50,9.082s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-29 10:58:41,2023-08-29 10:58:45,3.959s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 116.0.0.0,,,2023-08-29 10:58:45,2023-08-29 10:58:46,0.704s,PASSED
+"click(findTestObject(""Object Repository/VT/Page_JPetStore Demo/a_Enter the Store (1)""))",Chrome 116.0.0.0,,,2023-08-29 10:58:46,2023-08-29 10:58:47,1.360s,PASSED
+"click(findTestObject(""Object Repository/VT/Page_JPetStore Demo/img (1)""))",Chrome 116.0.0.0,,,2023-08-29 10:58:47,2023-08-29 10:58:48,0.791s,PASSED
+"takeScreenshotAsCheckpoint(""Bird"")",Chrome 116.0.0.0,,,2023-08-29 10:58:48,2023-08-29 10:58:49,1.121s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-08-29 10:58:49,2023-08-29 10:58:50,0.740s,PASSED
